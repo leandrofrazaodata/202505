@@ -3,18 +3,20 @@
 
 **Ferramentas para estudo:**
 
-*   Kubernetes geral (Estudando) > Kubectl (Pendentes) > kube config (Pendente)
+*   Kubernetes geral (Estudando) > kubeconfig.yml para se conectar com um cluster (Pendente) > Kubectl para dar comandos ao cluster kubernetes, após a configuração de conexão (Pendente)
+*   Minikube 
 *   Argo CD (Pendente)
 *   Terraform (Estudando)
 * Lambda (Pendente)
 
-# Videos importantes
+# Videos e anotações importantes
 
 **Kubernetes:**
 
 https://www.youtube.com/watch?v=wNt35P3ovcU (Fabricio Veronez)
 
 https://www.youtube.com/watch?v=2T86xAtR6Fo (Complete Kubernetes Course - From BEGINNER to PRO)
+
 
 
 
