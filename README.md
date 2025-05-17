@@ -4,7 +4,7 @@
 **Ferramentas para estudo:**
 
 *   Kubernetes geral (Estudando) > kubeconfig.yml para se conectar com um cluster (Pendente) > Kubectl para dar comandos ao cluster kubernetes, após a configuração de conexão (Pendente)
-*   Minikube 
+*   Minikube (Pendente)
 *   Argo CD (Pendente)
 *   Terraform (Estudando)
 * Lambda (Pendente)
